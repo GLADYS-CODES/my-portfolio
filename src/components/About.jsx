@@ -13,16 +13,17 @@ const About = () => {
           <div></div>
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-4xl font-bold'>
-              <p>Please take a look around.</p>
+            <div className='sm:text-right text-2xl font-bold'>
+              <p>Education & Tech Stack </p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me.
-              
-               What would you do if you had
-              a software expert available at your fingertips?</p>  
-            </div>
+              <p>Full stack web development bootcamp - Moringa School</p>
+              <p>Bachelor of Economics (3rd year) -UON</p>  
+            
+   
+     <p>I am proficient in Reactjs, Html, css </p>
+       <p>I am currently learning Ruby on Rails</p>
+</div>
           </div>
       </div>
     </div>
