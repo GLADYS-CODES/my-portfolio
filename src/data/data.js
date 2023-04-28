@@ -1,7 +1,8 @@
-
+import bmi from '../assets/bmi.png'
 import RealEst from '../assets/realestate.jpg'
 import besteats from '../assets/besteats.png'
 import Ex from '../assets/Ex.png'
+
 export const data=[
     {
         id:1,
@@ -19,8 +20,8 @@ export const data=[
     },
     {
         id:3,
-        name:"React JS Application",
-        image:WorkIm,
+        name:"Weight calculator",
+        image:bmi,
         github:"",
         live:"",
     },
