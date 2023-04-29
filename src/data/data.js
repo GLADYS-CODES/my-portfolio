@@ -1,3 +1,5 @@
+
+import medilab from '../assets/medilab.png'
 import bmi from '../assets/bmi.png'
 import RealEst from '../assets/realestate.jpg'
 import besteats from '../assets/besteats.png'
@@ -27,10 +29,10 @@ export const data=[
     },
     {
         id:4,
-        name:"React JS Application",
-        image:RealEst,
-        github:"",
-        live:"",
+        name:"Medilab",
+        image:medilab,
+        github:"https://github.com/GLADYS-CODES/medilab",
+        live:"https://guileless-kelpie-8aa566.netlify.app",
     },
 
 
