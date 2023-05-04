@@ -24,8 +24,8 @@ export const data=[
         id:3,
         name:"Weight calculator",
         image:bmi,
-        github:"",
-        live:"",
+        github:"https://github.com/GLADYS-CODES/bmi",
+        live:"https://sparkling-cascaron-0a8966.netlify.app",
     },
     {
         id:4,
