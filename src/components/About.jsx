@@ -21,8 +21,9 @@ const About = () => {
               <p>Bachelor of Economics (3rd year) -UON</p>  
             
    
-     <p>I am proficient in Reactjs, Html, css </p>
-       <p>I am currently learning Ruby on Rails</p>
+     <p>I am proficient in Reactjs, JavaScript, tailwindcss </p>
+  
+       <p>I am currently learning Ruby on Rails & working with restful apis</p >
 </div>
           </div>
       </div>
