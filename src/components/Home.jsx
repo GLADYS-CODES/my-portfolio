@@ -12,7 +12,7 @@ const Home = () => {
           Gladys Mungai
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a  Frontend Developer.
+          I'm a  Fullstack Developer with bias on frontend.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I enjoy creating  digital experiences. Currently, I’m focused on
