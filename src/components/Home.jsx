@@ -12,11 +12,11 @@ const Home = () => {
           Gladys Mungai
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a  Fullstack Developer with bias on frontend.
+          I'm a  Fullstack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
           I enjoy creating  digital experiences. Currently, I’m focused on
-          building responsive and user friendly  websites.I am also learning Ruby on Rails on the side.
+          building responsive and user friendly  websites(frontend).I am also learning Ruby on Rails on the side.
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>
