@@ -25,22 +25,7 @@ const About = () => {
   
        <p>I am currently learning Ruby on Rails & working with restful apis</p >
 </div>
-  <div>
-          <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-            <div className='sm:text-right text-2xl font-bold'>
-              <p>Tech experience </p>
-            </div>
-         
-         <p>Proficient in HTML and CSS: I am skilled in writing clean and semantic HTML code to structure web pages effectively. Additionally, I have expertise in CSS styling, allowing me to create visually appealing designs and layouts.
 
-Utilized React components and state management: I have experience in breaking down user interfaces into reusable React components, promoting code reusability and maintainability. I am also familiar with state management libraries such as Redux or React Context API to efficiently manage the application's state.
-
-Integrated APIs with React: I have successfully integrated APIs into React applications, fetching and displaying data from the server. This enables me to create dynamic and data-driven web applications.
-
-Implemented routing with Next.js: I am proficient in using Next.js's built-in routing system to create multi-page applications and handle client-side navigation. This allows for a seamless user experience with fast page transitions.
-
-Implemented responsive design principles: I am skilled in using CSS media queries and responsive design techniques to ensure that web pages I develop adapt and display optimally across different devices and screen sizes.
-         </p>
          </div>
           </div>
       </div>
