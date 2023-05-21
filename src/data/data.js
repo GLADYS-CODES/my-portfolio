@@ -4,7 +4,9 @@ import bmi from '../assets/bmi.png'
 //import RealEst from '../assets/realestate.jpg'
 import besteats from '../assets/besteats.png'
 import Ex from '../assets/Ex.png'
+import quote from '../assets/quote.png'
 
+import aptive from '../assets/aptive.png'
 export const data=[
     {
         id:1,
@@ -35,5 +37,22 @@ export const data=[
         live:"https://guileless-kelpie-8aa566.netlify.app",
     },
 
+{
+ id:5,
+ name:'Quotify',
+ image: quote.png,
+ github: 'https://github.com/GLADYS-CODES/Phase-1-final-project',
+ live: 'https://zingy-otter-a28c3e.netlify.app',
 
+},
+
+
+     {
+        id:6,
+        name:"Aptive",
+        image: aptive,
+        github:'https://github.com/GLADYS-CODES/aptive',
+        live:'https://soft-dodol-95d46b.netlify.app',
+
+    },
 ]
