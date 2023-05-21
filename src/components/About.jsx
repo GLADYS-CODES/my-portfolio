@@ -21,9 +21,15 @@ const About = () => {
               <p>Bachelor of Economics (3rd year) -UON</p>  
             
    
-     <p>I am proficient in Reactjs, Html, css </p>
-       <p>I am currently learning Ruby on Rails</p>
+     <p>I am proficient in Reactjs, JavaScript, tailwindcss </p>
+  <p>Utilized React components and state management: I have experience in breaking down user interfaces into reusable React components, promoting code reusability and maintainability. I am also familiar with state management libraries such as Redux or React Context API to efficiently manage the application's state.
+
+Integrated APIs with React: I have successfully integrated APIs into React applications, fetching and displaying data from the server. This enables me to create dynamic and data-driven web applications.</p>
+  
+       <p>I am currently learning Ruby on Rails & working with restful apis</p >
 </div>
+
+         </div>
           </div>
       </div>
     </div>
