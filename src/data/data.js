@@ -1,12 +1,13 @@
 
 import medilab from '../assets/medilab.png'
-import bmi from '../assets/bmi.png'
+//import bmi from '../assets/bmi.png'
 //import RealEst from '../assets/realestate.jpg'
 import besteats from '../assets/besteats.png'
 import Ex from '../assets/Ex.png'
 import quote from '../assets/quote.png'
 
 import aptive from '../assets/aptive.png'
+import  photofolio from '../assets/photofolio.png'
 export const data=[
     {
         id:1,
@@ -22,13 +23,13 @@ export const data=[
         github:"https://github.com/GLADYS-CODES/budget-tracker",
         live:"https://magenta-cat-4068f4.netlify.app",
     },
-    {
-        id:3,
-        name:"Weight calculator",
-        image:bmi,
-        github:"https://github.com/GLADYS-CODES/bmi",
-        live:"https://sparkling-cascaron-0a8966.netlify.app",
-    },
+    // {
+    //     id:3,
+    //     name:"Weight calculator",
+    //     image:bmi,
+    //     github:"https://github.com/GLADYS-CODES/bmi",
+    //     live:"https://sparkling-cascaron-0a8966.netlify.app",
+    // },
     {
         id:4,
         name:"Medilab",
@@ -40,7 +41,7 @@ export const data=[
 {
  id:5,
  name:'Quotify',
- image: quote.png,
+ image: quote,
  github: 'https://github.com/GLADYS-CODES/Phase-1-final-project',
  live: 'https://zingy-otter-a28c3e.netlify.app',
 
@@ -55,4 +56,12 @@ export const data=[
         live:'https://soft-dodol-95d46b.netlify.app',
 
     },
-]
+    {
+        id:7,
+        name:"Photofolio",
+        image: photofolio,
+        github:'https://github.com/GLADYS-CODES/photofolio',
+        live:'https://stellular-mousse-c222c8.netlify.app/',
+
+    },
+]   
